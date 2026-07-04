@@ -1,20 +1,52 @@
-# Hai! Saya Feri Ferdianto👋
+# ███████╗███████╗██████╗ ██████╗ 
+# ██╔════╝██╔════╝██╔══██╗██╔══██╗
+# █████╗  █████╗  ██████╔╝██████╔╝
+# ██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗
+# ██║     ███████╗██║  ██║██║  ██║
+# ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-# 💫 About Me:
-Siswa PPLG yang sedang mempelajari web development<br>dan membangun project sederhana.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/imnotferrriii) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=FerrCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ferr-Hanni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=FerrCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 👋 Hi, I'm Feri.
+A web enthusiast who believes in **building strong fundamentals** before chasing big titles.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ferr-Hanni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧭 My Journey So Far
+
+From being captivated by Front-end visuals to realizing that the Back-end logic is just as exciting, I've decided to aim for **Web Development** as a whole. 
+
+But here's my principle: **I don't rush to call myself a Full Stack Developer.** 
+I know my fundamentals are still in the "strengthening phase," and I'm perfectly okay with that. Better to be a humble learner than an arrogant master.
+
+---
+
+### ⚙️ Tech Stack
+
+| 🟢 Learned (Basic) | 🟡 Currently Learning | ⚪ Future Goals |
+| :--- | :--- | :--- |
+| HTML, CSS, JavaScript (Dasar) | PHP, MySQL, Logic Algoritma | Laravel / Node.js, API Design |
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=FerrCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=FerrCodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=FerrCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### 🚀 Featured Projects
+
+- 🧑‍🎨 **[Persona-Hanni]** – *(Tambahkan deskripsi singkat proyek ini, misal: Project tentang...)*
+- 🖥️ **[Portofolio]** – *(Tambahkan deskripsi singkat portofoliomu)*
+
+---
+
+### 📫 Let's Connect!
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](link-instagram-kamu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-linkedin-kamu)
+
+---
+
+> *"Today's code, tomorrow's foundation."*
