@@ -1,9 +1,5 @@
-# ███████╗███████╗██████╗ ██████╗ 
-# ██╔════╝██╔════╝██╔══██╗██╔══██╗
-# █████╗  █████╗  ██████╔╝██████╔╝
-# ██╔══╝  ██╔══╝  ██╔══██╗██╔══██╗
-# ██║     ███████╗██║  ██║██║  ██║
-# ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+# 👋 Hi, I'm <span style="color: #58a6ff;">FerrCodes</span>
+### 💻 Web Enthusiast | 🚀 Lifelong Learner
 
 ### 👋 Hi, I'm Ferr.
 A web enthusiast who believes in **building strong fundamentals** before chasing big titles.
