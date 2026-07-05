@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,postman,a&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,postman,&perline=12" />
   </a>
 </p>
 
