@@ -2,53 +2,61 @@
 
 <p align="center"><strong>💻 Trying to become a Web Developer | 🌱 Learn slowly to get the best results |🎵 Music of my life</strong></p>
 
----
+<h2 align="center">🧭 My Journey</h2>
 
-## 🧭 About Me
-
-Hello! I'm a vocational school student (PPLG) on a journey to master web development. 
-
-My story started with a fascination for Front-end—making things look beautiful and interactive. But soon, a question sparked in my mind: *"Why stop at the surface? What about the logic behind it?"*
-
-That's when I decided to aim for **Full Stack Web Development**. However, I hold one principle close to my heart: **I don't rush to call myself a Full Stack Developer.** I'm fully aware that my fundamentals are still in the "strengthening phase," and I embrace that. I believe it's better to be a humble, solid learner than a master with a shaky foundation.
-
-Currently, I'm enjoying the process of building my knowledge base from the ground up. Feel free to follow along or reach out—let's learn and grow together! 🚀
-
----
-
-## ⚙️ Tech Stack
-
-Here's a realistic snapshot of my current skills and learning roadmap:
-
-| 🟢 **Basic Proficiency** | 🟡 **Currently Learning** | ⚪ **Future Goals** |
-| :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-
----
-
-## 📊 GitHub Stats
-
-Showcasing my consistency and progress (even small steps count!):
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerrCodes&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="FerrCodes's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerrCodes&theme=radical&hide_border=true&background=0d1117" alt="FerrCodes's GitHub Streak" width="48%" />
+<p align="center">
+  Trying to develop simple projects and also trying new skills by building projects together. And want to become a Web Developer
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrCodes&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+<h2 align="center">⚙️ Tech Stack</h2>
 
----
+<p align="center">
+  <a href="https://github.com/FerrCodes">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,postman,a&perline=12" />
+  </a>
+</p>
 
-## 📫 Let's Connect and Collaborate!
+<h2 align="center"><b>📫 Let's Connect!</b></h2>
 
-I'm always open to connecting with fellow learners and developers. Let's chat!
+<p align="center">
+    <a href="https://instagram.com/ferrcodes](https://www.instagram.com/imnotferrriii/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>&nbsp;
+    <a href="https://discord.com/users/701465345524891700">
+        <img src="https://skillicons.dev/icons?i=discord" />
+    </a>&nbsp;
+    <a href="https://twitter.com/ferrcodes](https://x.com/imnotferrriii">
+        <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usernamekamu)
+<h2 align="center"><b>📊 GitHub Stats</b></h2>
 
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FerrCodes&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FerrCodes&theme=dark"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerrCodes&theme=dark&border_color=303030&border_radius=4"  />
+</div>
 
----
+<h2 align="center"><b>🔥 GitHub Streak</b></h2>
 
-> *"Today's code builds tomorrow's foundation."*
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=FerrCodes&theme=github-dark-blue&border_radius=10&card_width=500&background=0E0E0E&border=303030" alt="GitHub Streak" />
+  </a>
+</p>
+
+<h2 align="center"><b>🌐 My Portfolio</b></h2>
+
+<p align="center">
+  <a href="https://ferrcodes.github.io/Portofolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"Today's code builds tomorrow's foundation."</em>
+</p>
 
 <!--
 **FerrCodes/FerrCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
