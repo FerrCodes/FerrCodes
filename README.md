@@ -35,7 +35,6 @@
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FerrCodes&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FerrCodes&theme=dark"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerrCodes&theme=dark&border_color=303030&border_radius=4"  />
 </div>
 
 <h2 align="center"><b>🔥 GitHub Streak</b></h2>
