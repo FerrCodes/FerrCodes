@@ -16,6 +16,18 @@
   </a>
 </p>
 
+<h2 align="center"><b>📖 Currently Learning</b></h2>
+
+<p align="center">
+  <a href="https://github.com/FerrCodes">
+    <img src="https://skillicons.dev/icons?i=laravel,docker&perline=4" />
+  </a>
+</p>
+
+<p align="center">
+  <em>- Slowly but surely</em>
+</p>
+
 <h2 align="center"><b>📫 Let's Connect!</b></h2>
 
 <p align="center">
