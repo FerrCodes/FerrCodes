@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hi there! I'm Feri 👋</strong></h1>
 
-<p align="center"><strong>💻 Trying to become a Web Developer | 🌱 Learn slowly to get the best results |🎵 Music of my life</strong></p>
+<p align="center"><strong>💻 Aspiring Web Developer & Software Engineer | 🌱 Learn slowly to get the best results |🎵 Music of my life</strong></p>
 
 <h2 align="center">🧭 My Journey</h2>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=laravel,docker&perline=4" />
+    <img src="https://skillicons.dev/icons?i=laravel,docker,react,typescript&perline=4" />
   </a>
 </p>
 
@@ -68,7 +68,3 @@
 <p align="center">
   <em>"Today's code builds tomorrow's foundation."</em>
 </p>
-
-<!--
-**FerrCodes/FerrCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
