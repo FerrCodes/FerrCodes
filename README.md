@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=laravel,docker,react,typescript&perline=4" />
+    <img src="https://skillicons.dev/icons?i=laravel,typescript,react,docker&perline=4" />
   </a>
 </p>
 
