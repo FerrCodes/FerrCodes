@@ -31,13 +31,13 @@
 <h2 align="center"><b>📫 Let's Connect!</b></h2>
 
 <p align="center">
-    <a href="https://instagram.com/ferrcodes](https://www.instagram.com/imnotferrriii/">
+    <a href="https://www.instagram.com/imnotferrriii/">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>&nbsp;
     <a href="https://discord.com/users/701465345524891700">
         <img src="https://skillicons.dev/icons?i=discord" />
     </a>&nbsp;
-    <a href="https://twitter.com/ferrcodes](https://x.com/imnotferrriii">
+    <a href="https://x.com/imnotferrriii">
         <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
 </p>
