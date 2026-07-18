@@ -45,17 +45,9 @@
 <h2 align="center"><b>📊 GitHub Stats</b></h2>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FerrCodes&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FerrCodes&theme=dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FerrCodes&theme=dark" />
 </div>
-
-<h2 align="center"><b>🔥 GitHub Streak</b></h2>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FerrCodes&theme=github-dark-blue&border_radius=10&card_width=500&background=0E0E0E&border=303030" alt="GitHub Streak" />
-  </a>
-</p>
 
 <h2 align="center"><b>🌐 My Portfolio</b></h2>
 <h5 align="center">Indonesian language</h5>
