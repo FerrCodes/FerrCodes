@@ -58,6 +58,7 @@
 </p>
 
 <h2 align="center"><b>🌐 My Portfolio</b></h2>
+<h5 align="center">Indonesian language</h5>
 
 <p align="center">
   <a href="https://ferrcodes.github.io/Portofolio/">
