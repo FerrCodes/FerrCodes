@@ -1,6 +1,6 @@
 # Hi there! I'm Feri
 
-**Aspiring Software Engineer | Learn slowly to get the best results.**
+**Aspiring Software Engineer and Full Stack Developer | Learn slowly to get the best results.**
 
 ---
 
