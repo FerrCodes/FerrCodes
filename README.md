@@ -10,4 +10,5 @@ Trying out and experimenting with new, modern technologies, then gradually assem
 
 ---
 
-*"Today's code builds tomorrow's foundation."**
+*"Today's code builds tomorrow's foundation."* <br>
+-Feri
