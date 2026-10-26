@@ -4,7 +4,7 @@
 
 ---
 
-### 🧭 My Journey
+### My Journey:
 
 Trying out and experimenting with new, modern technologies, then gradually assembling everything into a tangible project and turning it into a learning process.
 
